@@ -5,7 +5,6 @@ README.md
 **/*.csv
 **/*.npy
 **/*.pkl
-**/*.venv
 **/.ipynb_checkpoints
 **/artifacts
 **/mlruns
